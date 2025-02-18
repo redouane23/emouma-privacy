@@ -2,7 +2,7 @@ Privacy Policy
 
 Effective Date: 01-01-2025
 
-Fassil App we, respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and protect your information when you use our app, Fassil App.
+Emouma App we, respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and protect your information when you use our app, Emouma App.
 
 Information We Collect
 We may collect the following types of information:
@@ -27,4 +27,4 @@ Access, update, or delete your personal information. Opt out of receiving promot
 We may update this Privacy Policy from time to time. When we do, we will post the updated policy on this page and revise the "Effective Date" at the top. We encourage you to review this Privacy Policy periodically.
 
 Contact Us
-If you have any questions or concerns about this Privacy Policy or our practices, please contact us at: imohc.alger@gmail.com
+If you have any questions or concerns about this Privacy Policy or our practices, please contact us at: emouma.alger@gmail.com
